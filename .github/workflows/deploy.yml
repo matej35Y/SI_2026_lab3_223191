@@ -1,4 +1,4 @@
-cat > .github/workflows/deploy.yml << 'EOF'
+cat > .github/workflows/deploy.yml << 'ENDOFFILE'
 name: Lint, Build, Deploy HTML, and Push Docker Image
 
 on:
